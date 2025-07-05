@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+.bg-001948 {
+  background-color: #001948;
+}
+
+.bg-custom-img {
+  background-image: url('https://hei.school/wp-content/uploads/2024/09/hei-banner-1.webp');
+  background-size: cover;
+  background-position: center;
+  height: 810px;
+  background-color: rgba(0, 0, 0, 2);
+}
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.border-white{
+    border: 15px solid rgb(232, 243, 241);
+    border-radius: 15px;
+}
+.title-font{
+    font-family: "EB Garamond", Sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    text-shadow: 6px 5px 11px rgba(0, 0, 0, 0.4);
+    color: #FFFFFF;
+}
+.bg-lightgrey {
+  background-color: rgba(229, 226, 226, 0.895);
+}
+.border{
+  border: 1px solid white;
+}
